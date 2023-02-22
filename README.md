@@ -1,2 +1,3 @@
 # ShowMeYourCode
-leetcode solutions
+
+leetcode solutions in scala
